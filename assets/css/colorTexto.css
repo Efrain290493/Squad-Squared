@@ -1,0 +1,23 @@
+h1, h2 {
+    color: #333; /* Un gris oscuro para los títulos */
+  }
+  
+  .breadcrumb {
+    color: #666; /* Un gris medio para el breadcrumb */
+  }
+  
+  label {
+    color: #555; /* Un gris un poco más oscuro para las etiquetas */
+  }
+  
+  input[type="text"] {
+    border: 1px solid #ccc; /* Borde gris claro para los campos de texto */
+    color: #333; /* Texto gris oscuro en los campos de texto */
+  }
+  
+  .btn-success {
+    background-color: #54a0ff; /* Botón en azul claro */
+    border-color: #54a0ff;
+    color: #fff; /* Texto blanco en el botón */
+  }
+  

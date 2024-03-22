@@ -1,0 +1,18 @@
+.card {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Una sombra suave alrededor de la tarjeta */
+  }
+  
+  .section {
+    border-radius: 5px; /* Esquinas ligeramente redondeadas para las secciones */
+  }
+
+  .contenedor-formulario {
+    display: flex;
+    justify-content: center;
+    width: 100%;  /* Centrar el contenedor en la pantalla */
+  }
+  
+  form {
+    width: 500px;  /* Ancho del formulario */
+  }
+  

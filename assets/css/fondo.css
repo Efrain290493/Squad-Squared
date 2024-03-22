@@ -1,0 +1,18 @@
+body {
+    background-color: #f5f5f5; /* Un tono gris claro como base */
+  }
+  
+  .card {
+    background-color: #fff; /* Fondo blanco para la tarjeta */
+    border: 1px solid #ccc; /* Un borde gris claro */
+  }
+  
+  .card-header {
+    background-color: #54a0ff; /* Un azul claro para el encabezado */
+    color: #fff; /* Texto blanco en el encabezado */
+  }
+  
+  .section {
+    background-color: #f0f0f0; /* Un tono gris muy claro para las secciones */
+  }
+  
