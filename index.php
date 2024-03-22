@@ -16,7 +16,7 @@
     /**Inicializar la clase */
     $rutas = new Rutas_controlador();
 
-    /**Ejecutar la funcion Inicializar Plantilla */
+    /**Ejecutar la funcion Inicializar Plantilla  con cambio*/
 
     $rutas->IniciarPlantilla();
 
