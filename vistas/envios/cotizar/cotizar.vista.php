@@ -43,7 +43,7 @@
                                 <div class="panel-body">
                                     <form action="index.php?ruta=envios/cotizar" method="post">
                                         <section class="paquete">
-                                            <h2>Información del paquete</h2>
+                                            <h2>Información del paquete de prueba</h2>
                                             <label for="peso">Peso:</label>
                                             <input type="text" name="peso" id="peso"
                                                 placeholder="Ingrese el peso del paquete">
